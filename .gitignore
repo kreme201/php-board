@@ -1,0 +1,13 @@
+# MacOS
+.DS_Store
+
+# IDE
+/.idea/
+/.vscode/
+
+# Compoaer
+/vendor/
+/composer.lock
+
+# App Config
+/config.php
